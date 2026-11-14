@@ -1,5 +1,6 @@
 
-# 🛰️ AI Web Signal Hunter
+# 🛰️ AI Web Signal Hunter.          
+## 🎥 Project Demo [▶ Watch Demo](https://youtu.be/DUtWyZ4da-Y?si=Vzkz9iW0yDtb0VIA)
 
 ### Turning Public Web Conversations into Actionable Market Intelligence
 
@@ -11,6 +12,9 @@ An AI-powered web intelligence project designed to explore publicly accessible w
 ## Project Overview
 
 AI Web Signal Hunter accepts a research topic, discovers relevant web pages, extracts their content and presents the collected sources in an interactive dashboard.
+### Research Configuration
+
+<img width="100%" alt="Research Topic Input" src="PASTE_IMAGE_URL" />
 
 The current working version focuses on web discovery, crawling, source exploration and data export.
 
