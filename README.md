@@ -1,6 +1,3 @@
-# 🛰️ AI Web Signal Hunter
-
-### Turning Public Web Conversations into Actionable Market Intelligence
 
 # 🛰️ AI Web Signal Hunter
 
