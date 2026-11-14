@@ -1,6 +1,6 @@
 
 # 🛰️ AI Web Signal Hunter.          
-## 🎥 Project Demo [▶ Watch Demo](https://youtu.be/DUtWyZ4da-Y?si=Vzkz9iW0yDtb0VIA)
+## 🎥 Project Demo [▶ Watch Demo](https://youtu.be/LzOj-H4h6ZY?si=zcgHqp2h5VJvywDm)
 
 ### Turning Public Web Conversations into Actionable Market Intelligence
 
