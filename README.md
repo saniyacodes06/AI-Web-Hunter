@@ -2,8 +2,11 @@
 
 ### Turning Public Web Conversations into Actionable Market Intelligence
 
-![AI Web Signal Hunter Dashboard](<img width="1470" height="956" alt="Screenshot 2026-11-14 at 11 57 40" src="https://github.com/user-attachments/assets/2436e8bc-4c02-4b66-af5e-f68620547d67" />
-)
+# 🛰️ AI Web Signal Hunter
+
+### Turning Public Web Conversations into Actionable Market Intelligence
+
+<img width="100%" alt="AI Web Signal Hunter Dashboard" src="https://github.com/user-attachments/assets/2436e8bc-4c02-4b66-af5e-f68620547d67" />
 
 An AI-powered web intelligence project designed to explore publicly accessible web content and identify useful market information from a given topic.
 
